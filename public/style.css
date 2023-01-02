@@ -1,0 +1,16 @@
+.main{
+    margin-top: 20px;
+}
+form{
+    display: inline;
+}
+table tr td,table tr th{
+    text-align: center;
+}
+.alert{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 30%;
+    
+}
